@@ -1,7 +1,7 @@
 ---
 title: "Testing2"
 date: 2019-04-08T01:46:23+08:00
-draft: true
+draft: false
 ---
 
 # Hugo
