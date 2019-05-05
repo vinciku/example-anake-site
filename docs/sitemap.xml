@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/hugo/</loc>
+    <loc>https://vinciku.github.io/example-anake-site/posts/hugo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://vinciku.github.io/example-anake-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://vinciku.github.io/example-anake-site/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://vinciku.github.io/example-anake-site/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://vinciku.github.io/example-anake-site/tags/</loc>
     <priority>0</priority>
   </url>
   
