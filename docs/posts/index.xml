@@ -6,9 +6,30 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2019 01:46:23 +0800</lastBuildDate>
     
 	<atom:link href="https://vinciku.github.io/example-anake-site/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing2</title>
+      <link>https://vinciku.github.io/example-anake-site/posts/testing2/</link>
+      <pubDate>Mon, 08 Apr 2019 01:46:23 +0800</pubDate>
+      
+      <guid>https://vinciku.github.io/example-anake-site/posts/testing2/</guid>
+      <description> Hugo Cmd to build site /user/bin/hugo -s hugo new ../../docset/test.md
+Tools to generate pdf WKHTMLTOPDF
+Download theme(ananke) git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke  Download all hugo theme git clone --depth 1 --recursive https://github.com/gohugoio/hugoThemes.git themes  add theme to config echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml  Start Server(very important) hugo server -D  </description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://vinciku.github.io/example-anake-site/posts/testing/</link>
+      <pubDate>Fri, 05 Apr 2019 12:31:58 +0800</pubDate>
+      
+      <guid>https://vinciku.github.io/example-anake-site/posts/testing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
